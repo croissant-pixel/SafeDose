@@ -1,0 +1,7 @@
+flask
+xgboost
+scikit-learn
+streamlit
+pandas
+numpy
+pickle5
